@@ -1,6 +1,5 @@
 /*
-This program showcases a working solution to the 
-Dining Philosophers Problem
+This program gives an example of how threads are created and executed.
 To compile: gcc -pthread philosophers.c
 To run: ./a.out
 */
@@ -101,12 +100,15 @@ to start thinking and then 'yum yum spaghetti' when ready*/
 void* spaghet(void * tid){
     int times = 0;
 	int phil_num = (intptr_t)tid;
-	
+
 	//eat,sleep,think CYCLES times (CYCLES starts as 200 but can be edited as seen fit)
     while(times<CYCLES){
 		char command[63];
 		sprintf(command, "echo 'Status after round #%d\n' >> philosopher_output.txt", times);
 		sprintf(command, "echo '-------------------------\n' >> philosopher_output.txt");
+		
+		/*since each philosopher starts their cycle with thinking, the thinking function is what 
+		stores the call to take_forks and put_forks*/
         thinking(phil_num);
 		times++;
     }

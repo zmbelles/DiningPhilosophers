@@ -1,2800 +1,2100 @@
-philosopher #6 is thinking
-
-philosopher #5 is thinking
-
-philosopher #2 is thinking
-
+philosopher #0 is thinking
 philosopher #3 is thinking
-
+philosopher #2 is thinking
+philosopher #5 is thinking
 philosopher #1 is thinking
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #6
-
 philosopher #4 is thinking
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #5
-
+philosopher #0 is hungry
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #1
-
-philosopher #5 is thinking
-
 philosopher #3 is thinking
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #6
-
-philosopher #4 is thinking
-
-philosopher #6 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #2
-
-philosopher #0 is thinking
-
+philosopher #1 is hungry
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+Spaghetti time for philosopher #0
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+philosopher #6 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #0
-
 philosopher #5 is thinking
-
-philosopher #0 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #6
-
+philosopher #3 is hungry
 philosopher #4 is thinking
-
-philosopher #6 is thinking
-
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #2
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #1
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
+philosopher #0 is hungry
 philosopher #5 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #4 is hungry
+philosopher #2 is hungry
+philosopher #0 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 Spaghetti time for philosopher #3
-
-philosopher #2 is thinking
-
-philosopher #0 is thinking
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #1 is hungry
+philosopher #6 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #2
 Spaghetti time for philosopher #1
-
+philosopher #2 is thinking
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #3 is hungry
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-philosopher #4 is thinking
-
+Spaghetti time for philosopher #4
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #4 is thinking
+philosopher #2 is hungry
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #3
-
 philosopher #0 is thinking
-
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
+philosopher #6 is hungry
+philosopher #1 is hungry
+philosopher #4 is hungry
 Spaghetti time for philosopher #5
-
+Spaghetti time for philosopher #2
 philosopher #5 is thinking
-
+philosopher #2 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #6
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #2
-
+Spaghetti time for philosopher #4
+philosopher #3 is hungry
 philosopher #6 is thinking
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #4 is thinking
 Spaghetti time for philosopher #3
-
-philosopher #0 is thinking
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #1
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #1 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #0 is thinking
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #2 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #4
-
 philosopher #2 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #4 is hungry
+philosopher #6 is thinking
+Spaghetti time for philosopher #4
 philosopher #4 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #2 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #0
-
 philosopher #1 is thinking
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #5
-
+philosopher #0 is hungry
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #5 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #5
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #2 is thinking
-
+philosopher #1 is hungry
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+philosopher #3 is hungry
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #3
-
 philosopher #0 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
+philosopher #4 is hungry
 philosopher #5 is thinking
-
+philosopher #0 is hungry
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
+philosopher #5 is hungry
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #4
-
+philosopher #1 is hungry
 philosopher #2 is thinking
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #6
-
 Spaghetti time for philosopher #1
-
-philosopher #6 is thinking
-
-philosopher #5 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #1 is thinking
-
 philosopher #0 is thinking
-
 Spaghetti time for philosopher #4
-
+philosopher #4 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+Spaghetti time for philosopher #5
 philosopher #3 is thinking
-
+philosopher #5 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #4 is thinking
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #0 is thinking
+philosopher #1 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #3 is hungry
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #5 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
+philosopher #2 is hungry
 philosopher #5 is thinking
-
+Spaghetti time for philosopher #2
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
+philosopher #2 is thinking
 philosopher #1 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #3 is hungry
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #0
-
 philosopher #1 is thinking
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #0 is thinking
+philosopher #6 is hungry
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
 Spaghetti time for philosopher #6
-
+philosopher #6 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #3
-
 philosopher #0 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #4 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
-philosopher #4 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #0
-
 philosopher #1 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #4 is hungry
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #6
-
-philosopher #3 is thinking
-
 Spaghetti time for philosopher #4
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
 philosopher #4 is thinking
-
-philosopher #2 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #5 is hungry
+philosopher #4 is thinking
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #0
-
-philosopher #2 is thinking
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #6
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #2 is hungry
 philosopher #6 is thinking
-
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #0
-
 philosopher #2 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #0 is hungry
+philosopher #1 is thinking
+Spaghetti time for philosopher #0
 philosopher #0 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #1
-
 philosopher #4 is thinking
-
-philosopher #1 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #3 is thinking
+philosopher #4 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #5
-
 philosopher #3 is thinking
-
-philosopher #5 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #2 is thinking
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #3 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #0 is hungry
 philosopher #2 is thinking
-
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #4
-
+philosopher #1 is hungry
 philosopher #0 is thinking
-
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
 philosopher #1 is thinking
-
-philosopher #3 is thinking
-
-philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #6
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #3 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #4 is thinking
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #2
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #1
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
 philosopher #1 is thinking
-
-philosopher #3 is thinking
-
+philosopher #4 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #2 is hungry
 philosopher #6 is thinking
-
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
 philosopher #1 is thinking
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #4 is thinking
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #4 is thinking
+philosopher #3 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #2
-
+philosopher #2 is hungry
 philosopher #6 is thinking
-
-philosopher #2 is thinking
-
+Spaghetti time for philosopher #2
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
+philosopher #2 is thinking
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #4 is thinking
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #1
-
-philosopher #0 is thinking
-
-philosopher #1 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #4 is thinking
+philosopher #4 is hungry
 philosopher #3 is thinking
-
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #1 is hungry
+philosopher #2 is thinking
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
 philosopher #1 is thinking
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #1
-
-philosopher #0 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #4 is hungry
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #4
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #2 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-philosopher #0 is thinking
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #4
-
-philosopher #3 is thinking
-
-philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #6
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #1
-
-philosopher #0 is thinking
-
-philosopher #1 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #6
-
-philosopher #5 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #6 is thinking
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #3 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #4 is thinking
-
+philosopher #0 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #5 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #6
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #0 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #3 is thinking
-
 philosopher #2 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #6
-
+philosopher #0 is hungry
 philosopher #1 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #1
-
-philosopher #2 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #1 is thinking
-
+philosopher #6 is hungry
 philosopher #5 is thinking
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #2 is hungry
+philosopher #4 is thinking
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #3
-
+philosopher #1 is hungry
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #1
-
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #1
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
 philosopher #1 is thinking
-
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #3
-
+philosopher #3 is hungry
 philosopher #2 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #1 is hungry
+philosopher #0 is thinking
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #5
-
 philosopher #1 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
 philosopher #5 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #2 is hungry
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
-philosopher #4 is thinking
-
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #1
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #1 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #1
 philosopher #1 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #6
-
+philosopher #4 is hungry
 philosopher #5 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
 Spaghetti time for philosopher #4
-
+philosopher #6 is hungry
 philosopher #4 is thinking
-
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #3
-
 philosopher #2 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #1 is hungry
+philosopher #0 is thinking
 Spaghetti time for philosopher #1
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #1
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #1 is thinking
-
-philosopher #0 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #2 is hungry
+philosopher #3 is hungry
 philosopher #4 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
+philosopher #1 is thinking
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #4
-
+philosopher #6 is thinking
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #6 is thinking
-
+Spaghetti time for philosopher #0
 philosopher #5 is thinking
-
+philosopher #3 is thinking
+philosopher #0 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #5
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #3 is hungry
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #1
-
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #1 is thinking
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #4 is hungry
+philosopher #1 is thinking
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #2 is hungry
+philosopher #6 is thinking
 Spaghetti time for philosopher #2
-
+philosopher #2 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #3 is hungry
+philosopher #5 is thinking
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #1 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #1
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #1 is thinking
 philosopher #4 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
+philosopher #3 is hungry
 philosopher #5 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #4 is hungry
+philosopher #6 is thinking
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
+philosopher #1 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #6 is hungry
+philosopher #0 is thinking
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #4
-
+philosopher #4 is hungry
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #4
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #2
-
 philosopher #1 is thinking
-
-philosopher #2 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #6
-
+philosopher #0 is hungry
 philosopher #3 is thinking
-
-philosopher #6 is thinking
-
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #4
-
 philosopher #0 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #1
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #2 is thinking
-
-philosopher #0 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #6 is thinking
-
+philosopher #0 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #5
-
+philosopher #6 is hungry
 philosopher #0 is thinking
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #1
-
-philosopher #6 is thinking
-
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #3
-
 philosopher #6 is thinking
-
-philosopher #3 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #5
-
+philosopher #2 is hungry
 philosopher #4 is thinking
-
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
 philosopher #1 is thinking
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #0 is thinking
-
 philosopher #5 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #2 is hungry
 philosopher #4 is thinking
-
+philosopher #6 is thinking
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
+philosopher #5 is hungry
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #6
-
+Spaghetti time for philosopher #5
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #0
-
-philosopher #6 is thinking
-
+philosopher #4 is hungry
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #5
-
+Spaghetti time for philosopher #4
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #5
-
+philosopher #6 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #5 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #3 is hungry
+philosopher #1 is thinking
 philosopher #2 is thinking
-
 Spaghetti time for philosopher #3
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #6
-
 philosopher #0 is thinking
-
-philosopher #6 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #6
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #2
-
-philosopher #0 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #2 is thinking
-
 philosopher #0 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #6 is hungry
+philosopher #4 is thinking
 Spaghetti time for philosopher #6
-
+philosopher #1 is hungry
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #3 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #5 is hungry
 philosopher #0 is thinking
-
 Spaghetti time for philosopher #5
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #6 is hungry
 philosopher #4 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #1
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #4
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #6 is hungry
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #1 is thinking
-
-philosopher #5 is thinking
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #3 is hungry
 philosopher #2 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #5
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #5 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #1
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #6 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #2 is hungry
 philosopher #1 is thinking
-
+Spaghetti time for philosopher #2
+philosopher #3 is hungry
+philosopher #2 is thinking
 Spaghetti time for philosopher #3
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
+philosopher #3 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #6 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
+philosopher #6 is thinking
 Spaghetti time for philosopher #1
-
+philosopher #2 is hungry
 philosopher #1 is thinking
-
 Spaghetti time for philosopher #2
-
-philosopher #3 is thinking
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #0
-
-philosopher #4 is thinking
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #0 is hungry
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #4
-
+philosopher #4 is hungry
 philosopher #5 is thinking
-
+Spaghetti time for philosopher #4
 philosopher #4 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #1
-
 philosopher #3 is thinking
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #5 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
 philosopher #0 is thinking
-
+philosopher #5 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #6 is thinking
+philosopher #0 is hungry
 philosopher #2 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #3 is hungry
+philosopher #0 is thinking
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #0
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #0 is hungry
+philosopher #2 is thinking
+Spaghetti time for philosopher #0
 philosopher #0 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #4
-
 philosopher #5 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #4 is thinking
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #1 is hungry
 philosopher #4 is thinking
-
 Spaghetti time for philosopher #1
-
+philosopher #6 is hungry
 philosopher #1 is thinking
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #0 is thinking
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #5
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
 philosopher #0 is thinking
-
+philosopher #3 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-philosopher #0 is thinking
-
 philosopher #1 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #2 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #3 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #2 is thinking
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
+philosopher #1 is hungry
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #0
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #0 is thinking
-
-philosopher #3 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
+philosopher #1 is hungry
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
 Spaghetti time for philosopher #1
-
+philosopher #6 is hungry
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #3
-
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #3 is thinking
-
+philosopher #3 is hungry
 philosopher #2 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
+philosopher #3 is thinking
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #2 is hungry
+philosopher #6 is thinking
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
 philosopher #0 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #1 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #2
-
 philosopher #3 is thinking
-
-philosopher #2 is thinking
-
+philosopher #5 is hungry
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #4 is thinking
+philosopher #0 is hungry
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #6
-
+Spaghetti time for philosopher #0
 philosopher #6 is thinking
-
+philosopher #0 is thinking
+philosopher #4 is hungry
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #0
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #1
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
 philosopher #0 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
 philosopher #1 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #6
-
 philosopher #2 is thinking
-
-philosopher #6 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #4 is thinking
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #0
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #0 is thinking
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #4 is hungry
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #3
-
+Spaghetti time for philosopher #4
+philosopher #0 is hungry
 philosopher #4 is thinking
-
-philosopher #3 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #1 is hungry
+philosopher #0 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #0 is thinking
-
-philosopher #5 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #5 is thinking
 philosopher #2 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #4
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #3 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
 philosopher #1 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #5 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #2 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #3 is hungry
+philosopher #1 is thinking
+Spaghetti time for philosopher #3
+philosopher #5 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
+philosopher #6 is hungry
 philosopher #5 is thinking
-
 Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #6
-
+philosopher #4 is thinking
+philosopher #0 is hungry
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #2 is thinking
-
-philosopher #1 is thinking
-
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #6 is thinking
-
+philosopher #1 is hungry
 philosopher #2 is thinking
-
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
+philosopher #3 is hungry
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #5 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
+philosopher #4 is hungry
 philosopher #5 is thinking
-
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #2 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #2
+philosopher #1 is hungry
+philosopher #2 is thinking
+Spaghetti time for philosopher #1
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #1 is thinking
 philosopher #3 is thinking
-
-philosopher #4 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #6 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #1 is hungry
+philosopher #2 is thinking
+Spaghetti time for philosopher #1
+philosopher #3 is hungry
+philosopher #1 is thinking
+Spaghetti time for philosopher #3
+philosopher #5 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #6 is hungry
 philosopher #5 is thinking
-
 Spaghetti time for philosopher #6
-
+philosopher #0 is hungry
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #5
-
+philosopher #4 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #6
-
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #1
-
+Spaghetti time for philosopher #6
 philosopher #6 is thinking
-
-philosopher #1 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #0 is thinking
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #3 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #5 is hungry
+philosopher #4 is thinking
+philosopher #3 is thinking
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #2 is thinking
 philosopher #0 is thinking
-
+philosopher #4 is hungry
+philosopher #1 is thinking
+Spaghetti time for philosopher #4
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #5 is hungry
+philosopher #3 is thinking
+philosopher #4 is thinking
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #3 is thinking
-
+philosopher #0 is hungry
 philosopher #2 is thinking
-
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-philosopher #4 is thinking
-
 philosopher #1 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #5 is hungry
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #5
-
 philosopher #0 is thinking
-
-philosopher #5 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
+philosopher #3 is hungry
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #4
-
-philosopher #2 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #0
-
 philosopher #6 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #0 is thinking
-
+philosopher #0 is hungry
 philosopher #5 is thinking
-
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #3 is hungry
+philosopher #1 is thinking
 Spaghetti time for philosopher #3
-
+philosopher #6 is hungry
 philosopher #3 is thinking
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #5 is hungry
 philosopher #4 is thinking
-
+Spaghetti time for philosopher #5
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #1 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #1
-
+philosopher #3 is hungry
 philosopher #1 is thinking
-
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #2
-
 philosopher #3 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #4
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #4 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #1 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #4 is hungry
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
+Spaghetti time for philosopher #4
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #4 is thinking
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #5 is thinking
-
-philosopher #6 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
+philosopher #0 is thinking
 philosopher #5 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #3 is hungry
+philosopher #6 is thinking
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #2
-
 philosopher #3 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #4 is hungry
+philosopher #1 is thinking
 Spaghetti time for philosopher #4
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #6
-
 philosopher #4 is thinking
-
-philosopher #6 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-Spaghetti time for philosopher #1
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
 philosopher #5 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #6 is thinking
 philosopher #5 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #1 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #6
-
 philosopher #4 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #6 is thinking
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #6 is hungry
 philosopher #3 is thinking
-
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #5
-
+philosopher #1 is hungry
 philosopher #2 is thinking
-
-philosopher #5 is thinking
-
+Spaghetti time for philosopher #1
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #6
-
 philosopher #4 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #1
-
-philosopher #0 is thinking
-
+philosopher #0 is hungry
 philosopher #1 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #5 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #0 is thinking
 Spaghetti time for philosopher #5
-
+philosopher #6 is hungry
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #6 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #3
-
 philosopher #1 is thinking
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #5
-
+philosopher #4 is hungry
 philosopher #2 is thinking
-
-philosopher #5 is thinking
-
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #1
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #3 is hungry
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #0 is thinking
-
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
+philosopher #3 is thinking
 Spaghetti time for philosopher #0
-
-philosopher #6 is thinking
-
 philosopher #0 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #2
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #5
-
 philosopher #2 is thinking
-
-philosopher #5 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #0 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #4
-
 Spaghetti time for philosopher #0
-
-philosopher #4 is thinking
-
 philosopher #0 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #1 is hungry
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #5
-
+philosopher #4 is hungry
 philosopher #2 is thinking
-
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #5
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #5 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #4 is thinking
-
+philosopher #5 is hungry
 philosopher #0 is thinking
-
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #2
-
 philosopher #6 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #5
-
 philosopher #3 is thinking
-
-philosopher #5 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #3 is thinking
-
+philosopher #5 is hungry
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #2
-
-philosopher #1 is thinking
-
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-philosopher #2 is thinking
-
 philosopher #1 is thinking
-
+philosopher #5 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #2 is thinking
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #2 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
+philosopher #6 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #6
-
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #5
-
+philosopher #3 is hungry
 philosopher #2 is thinking
-
-philosopher #5 is thinking
-
 Spaghetti time for philosopher #3
-
+philosopher #0 is hungry
 philosopher #3 is thinking
-
 Spaghetti time for philosopher #0
-
+philosopher #6 is hungry
 philosopher #0 is thinking
-
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
+philosopher #6 is thinking
 philosopher #1 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #4 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #6 is thinking
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
+philosopher #6 is hungry
 philosopher #0 is thinking
-
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
+philosopher #6 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #4 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #5
-
 philosopher #2 is thinking
-
-philosopher #5 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-Spaghetti time for philosopher #1
-
 philosopher #0 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #1 is thinking
-
+philosopher #3 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #4 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-philosopher #4 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
+philosopher #6 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
-Spaghetti time for philosopher #6
-
-Spaghetti time for philosopher #0
-
-philosopher #6 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
-Spaghetti time for philosopher #1
-
+philosopher #2 is hungry
+philosopher #4 is thinking
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #1 is thinking
-
+philosopher #6 is hungry
+philosopher #3 is thinking
 philosopher #0 is thinking
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #3
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #5 is hungry
+philosopher #1 is thinking
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
 philosopher #2 is thinking
-
-philosopher #1 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #6 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #2
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+philosopher #1 is hungry
+philosopher #5 is hungry
 Spaghetti time for philosopher #5
-
 philosopher #5 is thinking
-
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
+philosopher #2 is hungry
 philosopher #4 is thinking
-
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #1
-
 philosopher #2 is thinking
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #0 is thinking
+philosopher #5 is hungry
+philosopher #3 is thinking
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
 Spaghetti time for philosopher #6
-
+philosopher #6 is thinking
+Spaghetti time for philosopher #1
+philosopher #4 is thinking
+philosopher #2 is hungry
 philosopher #1 is thinking
-
+Spaghetti time for philosopher #2
+philosopher #0 is hungry
+philosopher #2 is thinking
 Spaghetti time for philosopher #0
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #3 is thinking
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+philosopher #0 is thinking
+philosopher #5 is thinking
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #1
-
 philosopher #2 is thinking
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #2
-
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #0 is hungry
+philosopher #3 is thinking
+Spaghetti time for philosopher #0
+philosopher #5 is hungry
+philosopher #0 is thinking
 Spaghetti time for philosopher #5
-
-philosopher #2 is thinking
-
+philosopher #6 is hungry
 philosopher #5 is thinking
-
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
-Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #1
-
-philosopher #3 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #1 is thinking
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #6
-
-philosopher #6 is thinking
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
 philosopher #0 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #6 is hungry
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #5 is thinking
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #0 is hungry
 Spaghetti time for philosopher #0
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #6
-
 philosopher #0 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+philosopher #5 is thinking
+Spaghetti time for philosopher #6
+philosopher #1 is hungry
 philosopher #6 is thinking
-
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
-Spaghetti time for philosopher #2
-
+philosopher #2 is hungry
 philosopher #4 is thinking
-
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #5
-
-philosopher #5 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #6
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #4 is hungry
+philosopher #1 is thinking
 Spaghetti time for philosopher #4
-
-philosopher #0 is thinking
-
+philosopher #2 is hungry
 philosopher #4 is thinking
-
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #5
-
+philosopher #3 is hungry
 philosopher #2 is thinking
-
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #1
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
 philosopher #3 is thinking
-
+philosopher #5 is thinking
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-philosopher #1 is thinking
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
-philosopher #0 is thinking
-
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #4 is hungry
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #1
-
 philosopher #3 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
-philosopher #1 is thinking
-
 philosopher #6 is thinking
-
-Spaghetti time for philosopher #0
-
+philosopher #1 is hungry
+philosopher #5 is thinking
+Spaghetti time for philosopher #1
+philosopher #4 is hungry
+philosopher #1 is thinking
 Spaghetti time for philosopher #4
-
 philosopher #4 is thinking
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #3
-
 philosopher #2 is thinking
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #3 is hungry
+philosopher #0 is thinking
+Spaghetti time for philosopher #3
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #1 is thinking
-
+philosopher #6 is hungry
 Spaghetti time for philosopher #6
-
+philosopher #6 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #1 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #1
-
 philosopher #1 is thinking
-
+philosopher #4 is hungry
+Spaghetti time for philosopher #4
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #3
-
 philosopher #2 is thinking
-
-philosopher #6 is thinking
-
-Spaghetti time for philosopher #4
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #3 is hungry
+Spaghetti time for philosopher #3
+philosopher #6 is hungry
 philosopher #3 is thinking
-
-philosopher #4 is thinking
-
+Spaghetti time for philosopher #6
+philosopher #6 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #1 is hungry
 Spaghetti time for philosopher #1
-
-Spaghetti time for philosopher #2
-
+philosopher #2 is hungry
 philosopher #1 is thinking
-
+Spaghetti time for philosopher #2
 philosopher #2 is thinking
-
-Spaghetti time for philosopher #6
-
+philosopher #0 is hungry
+Spaghetti time for philosopher #0
+philosopher #0 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #6 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+Spaghetti time for philosopher #6
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #1 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #1
-
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
+philosopher #0 is hungry
+philosopher #2 is thinking
 philosopher #1 is thinking
-
+Spaghetti time for philosopher #0
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-philosopher #2 is thinking
-
-Spaghetti time for philosopher #2
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #1
-
-philosopher #2 is thinking
-
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #2 is hungry
 Spaghetti time for philosopher #2
-
-Spaghetti time for philosopher #3
-
-philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #1 is hungry
+philosopher #2 is thinking
+Spaghetti time for philosopher #1
+philosopher #1 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
-philosopher #4 is thinking
-
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
+philosopher #2 is hungry
 philosopher #3 is thinking
-
-Spaghetti time for philosopher #4
-
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #1 is hungry
+Spaghetti time for philosopher #1
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #3 is hungry
+philosopher #5 is thinking
 Spaghetti time for philosopher #3
-
-philosopher #4 is thinking
-
-Spaghetti time for philosopher #4
-
 philosopher #3 is thinking
-
-philosopher #4 is thinking
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #5 is hungry
+philosopher #2 is thinking
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #3 is hungry
 Spaghetti time for philosopher #3
-
-Spaghetti time for philosopher #4
-
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #2 is hungry
+philosopher #5 is thinking
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #5 is thinking
+philosopher #2 is hungry
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #2 is hungry
+philosopher #5 is thinking
+Spaghetti time for philosopher #2
+philosopher #2 is thinking
+philosopher #5 is hungry
+Spaghetti time for philosopher #5
+philosopher #2 is hungry
+Spaghetti time for philosopher #2

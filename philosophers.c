@@ -1,5 +1,6 @@
 /*
-This program gives an example of how threads are created and executed.
+This program showcases a working solution to the 
+Dining Philosophers Problem
 To compile: gcc -pthread philosophers.c
 To run: ./a.out
 */

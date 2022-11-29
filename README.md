@@ -10,7 +10,7 @@ Steps:
         1.1. initialized as 7  
     2. attempt to initialize a mutex  
     3. create threads for each philosopher  
-        3.1 utilizing pthread_join to wait for each thread to be created.
+        3.1 utilizing pthread_join to wait for each thread to be created.  
     4. take_forks():  
         4.1 for an arbitrary number of cycles each philosopher will set their status to hungry and then take turns taking a left fork and a right fork
         4.2 if there is no left fork available or no right fork available, invoke pthread_cond_wait passing in the semaphore and a reference to the lock variable  

@@ -5,7 +5,7 @@ Dining philosophers Problem: The Dining Philosophers Problem is a producer-consu
 forks. each philosopher has one fork to their left and one fork to their right. Through traditional coding practices each philosopher would grab their left fork and  
 then be stuck indefinitely waiting for their right fork to become free as each philosophers right fork is their right adjacent philosophers left fork. This is solved  
 through multi-threading, semaphores, and mutexes along with allowing processes to wait their turn without busy wait.
-Steps:  
+Steps:   
     1. creates pthread_t threads for each philosopher  
         1.1. initialized as 7  
     2. attempt to initialize a mutex  

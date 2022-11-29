@@ -1,5 +1,5 @@
 /*
-This program gives an example of how threads are created and executed.
+See https://github.com/zmbelles/philosophers for ReadMe
 To compile: gcc -pthread philosophers.c
 To run: ./a.out
 */
@@ -8,7 +8,8 @@ To run: ./a.out
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
-
+#include <time.h>       // for clock_t, clock(), CLOCKS_PER_SEC
+#include <unistd.h>     // for sleep()
 //define constant PHILOSOPHERS as 7
 #define PHILOSOPHERS 7
 
@@ -28,9 +29,11 @@ eat, and put their forks down before finishing*/
 //semaphores for each philosopher
 typedef int semaphore;
 semaphore s[PHILOSOPHERS];
+
+//array for each philosopher to store how many times they have thunk and ate
 int philCycles[PHILOSOPHERS];
 
-//i tried making it work without this but pthread_cond_wait wont work without it
+//required implimentation for pthread_cond_wait
 pthread_cond_t cond[PHILOSOPHERS];
 
 //a mutex
@@ -53,7 +56,7 @@ void* put_forks(int phil_num){
 	s[phil_num]=THINKING;
 
 	/*test the left and right philosophers to see if your forks being
-	put down would allow them to be awoken and eat*/
+	put down would allow them to be awoken and eat. signal them if so*/
 	test(LEFT);
 	test(RIGHT);
 
@@ -68,18 +71,26 @@ void* take_forks(int phil_num){
     pthread_mutex_lock(&lock);
 	//denote that this philosopher is hungry
 	s[phil_num] = HUNGRY;
+
+	char command[61];
+	//denote in txt file the philosopher is thinking
+	sprintf(command, "echo 'philosopher #%d is hungry' >> philosopher_output.txt", phil_num);
+	/*run the command*/
+	status = system(command);
+	
 	//check if this philosopher can eat
 	test(phil_num);
 
-	//make the thread wait if it cannot.
+	/*make the philosopher wait if it cannot. passing in its mutex 
+	to free up the critical region while waiting*/
 	if(s[phil_num]!= EATING){
 		pthread_cond_wait(&cond[phil_num],&lock);
 	}
 
 	//when spaghetti time, write to philosopher_output.txt the action
-	char command[70];
-	sprintf(command, "echo 'Spaghetti time for philosopher #%d\n' >> philosopher_output.txt", phil_num);
-	status = system(command);
+	char command1[70];
+	sprintf(command1, "echo 'Spaghetti time for philosopher #%d' >> philosopher_output.txt", phil_num);
+	status = system(command1);
 
 	//unlock the critical region
 	pthread_mutex_unlock(&lock);
@@ -91,11 +102,11 @@ void* thinking(void * tid){
 	//think CYCLES times
 	while(philCycles[phil_num]<CYCLES){
 		char command[63];
-		sprintf(command, "echo 'philosopher #%d is thinking\n' >> philosopher_output.txt", phil_num);
-		s[phil_num]=THINKING;
-
+		//denote in txt file the philosopher is thinking
+		sprintf(command, "echo 'philosopher #%d is thinking' >> philosopher_output.txt", phil_num);
 		/*run the command*/
 		status = system(command);
+		s[phil_num]=THINKING;
 
 		/*after thinking, each philosopher will try to take forks, eat, then put them down
 		before the cycle ended*/
@@ -104,25 +115,25 @@ void* thinking(void * tid){
 		philCycles[phil_num]++;
 	}
 }
-
-
 int main(int argc, char * argv[])
 {
 	//create threads for each philosopher
 	pthread_t threads[PHILOSOPHERS];
 	int status, i;
-
+	double time_spent = 0.0;
+ 
+    clock_t begin = clock();
+ 
+    
 	//create a mutex
 	if (pthread_mutex_init(&lock, NULL) != 0)
 	{
 		printf("\n mutex init failed\n");
 		return 1;
 	}
-	//count through 10 threads
+	//count through all philosophers
 	for(i=0; i < PHILOSOPHERS; i++) {
-		//run main thread
-		printf("Main here. Creating philosopher thread %d\n", i);
-		//create 10 threads
+		//create PHILOSOPHERS threads
 		status = pthread_create(&threads[i], NULL, thinking, (void *)(intptr_t)i);
 		//check for errors with creating threads
 		if (status != 0) {
@@ -136,6 +147,12 @@ int main(int argc, char * argv[])
 		pthread_join (threads[j], NULL);
 	}
 	//delete the mutex
+	clock_t end = clock();
+    time_spent += (double)(end - begin) / CLOCKS_PER_SEC;
+	char command[72];
+	sprintf(command, "echo 'all completed eating in %f seconds' >> philosopher_output.txt", time_spent);
+	/*run the command*/
+	status = system(command);
 	pthread_mutex_destroy(&lock);
 	exit(0);
 }

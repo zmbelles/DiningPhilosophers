@@ -7,6 +7,7 @@ To run: ./a.out
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
 
 //define constant PHILOSOPHERS as 7
 #define PHILOSOPHERS 7
@@ -27,6 +28,10 @@ eat, and put their forks down before finishing*/
 //semaphores for each philosopher
 typedef int semaphore;
 semaphore s[PHILOSOPHERS];
+int philCycles[PHILOSOPHERS];
+
+//i tried making it work without this but pthread_cond_wait wont work without it
+pthread_cond_t cond[PHILOSOPHERS];
 
 //a mutex
 pthread_mutex_t lock;
@@ -36,7 +41,7 @@ void* test(int phil_num){
 	//otherwise i will sleep/continue to sleep
 	if(s[phil_num]==HUNGRY && s[LEFT]!=EATING && s[RIGHT]!=EATING){
 	   s[phil_num]=EATING;
-	   pthread_cond_signal(&s[phil_num]);
+	   pthread_cond_signal(&cond[phil_num]);
 	}
 }
 
@@ -68,7 +73,7 @@ void* take_forks(int phil_num){
 
 	//make the thread wait if it cannot.
 	if(s[phil_num]!= EATING){
-		pthread_cond_wait(s[phil_num],&lock);
+		pthread_cond_wait(&cond[phil_num],&lock);
 	}
 
 	//when spaghetti time, write to philosopher_output.txt the action
@@ -79,40 +84,27 @@ void* take_forks(int phil_num){
 	//unlock the critical region
 	pthread_mutex_unlock(&lock);
 }
-void* thinking(int phil_num){
+void* thinking(void * tid){
 	int status;
-
-	/*create a bash command to run*/
-	char command[63];
-	sprintf(command, "echo 'philosopher #%d is thinking\n' >> philosopher_output.txt", phil_num);
-
-	/*run the command*/
-	status = system(command);
-
-	/*after thinking, each philosopher will try to take forks, eat, then put them down
-	before the cycle ended*/
-    take_forks(phil_num);
-    put_forks(phil_num);
-}
-
-/*when the thread is created, it is passed into the spaghet class for the philosopher
-to start thinking and then 'yum yum spaghetti' when ready*/
-void* spaghet(void * tid){
-    int times = 0;
-	int phil_num = (intptr_t)tid;
-
-	//eat,sleep,think CYCLES times (CYCLES starts as 200 but can be edited as seen fit)
-    while(times<CYCLES){
+    int phil_num = (intptr_t)tid;
+	
+	//think CYCLES times
+	while(philCycles[phil_num]<CYCLES){
 		char command[63];
-		sprintf(command, "echo 'Status after round #%d\n' >> philosopher_output.txt", times);
-		sprintf(command, "echo '-------------------------\n' >> philosopher_output.txt");
-		
-		/*since each philosopher starts their cycle with thinking, the thinking function is what 
-		stores the call to take_forks and put_forks*/
-        thinking(phil_num);
-		times++;
-    }
+		sprintf(command, "echo 'philosopher #%d is thinking\n' >> philosopher_output.txt", phil_num);
+		s[phil_num]=THINKING;
+
+		/*run the command*/
+		status = system(command);
+
+		/*after thinking, each philosopher will try to take forks, eat, then put them down
+		before the cycle ended*/
+		take_forks(phil_num);
+		put_forks(phil_num);
+		philCycles[phil_num]++;
+	}
 }
+
 
 int main(int argc, char * argv[])
 {
@@ -131,7 +123,7 @@ int main(int argc, char * argv[])
 		//run main thread
 		printf("Main here. Creating philosopher thread %d\n", i);
 		//create 10 threads
-		status = pthread_create(&threads[i], NULL, thinking, (void *)i);
+		status = pthread_create(&threads[i], NULL, thinking, (void *)(intptr_t)i);
 		//check for errors with creating threads
 		if (status != 0) {
 			printf("Oops. pthread create returned error code %d\n", status);

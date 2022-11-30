@@ -19,7 +19,7 @@ To run: ./a.out
 
 /*number of times each philosopher will take forks, 
 eat, and put their forks down before finishing*/
-#define CYCLES 100
+#define CYCLES 20
 
 //define status numbers
 #define THINKING 2
@@ -88,8 +88,8 @@ void* take_forks(int phil_num){
 	}
 
 	//when spaghetti time, write to philosopher_output.txt the action
-	char command1[70];
-	sprintf(command1, "echo 'Spaghetti time for philosopher #%d' >> philosopher_output.txt", phil_num);
+	char command1[71];
+	sprintf(command1, "echo 'Philosopher #%d takes fork %d and %d' >> philosopher_output.txt", phil_num++, LEFT++, RIGHT++);
 	status = system(command1);
 
 	//unlock the critical region
